@@ -5,9 +5,9 @@ OBJECT ORIENTED PROGRAMMING
 PROJECT REPORT
 TOPIC:  Hospital Room Management System in COVID-19 period
 
-Aim and objective of the project
-Our Aim is to make a Hospital room management system dedicated to serve patients and hospital staff to maintain the record of patients and give them a nice and easy experience along with all the information related to the availability of rooms and beds.
+Aim and objective of the project is to make a Hospital room management system dedicated to serve patients and hospital staff to maintain the record of patients and give them a nice and easy experience along with all the information related to the availability of rooms and beds.
 Significance and importance of this project
+
 To understand the importance of the scenario, let us first look at some news headlines. 
 
 
