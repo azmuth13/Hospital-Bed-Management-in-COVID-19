@@ -7,7 +7,9 @@ TOPIC:  Hospital Room Management System in COVID-19 period!
 
 **Problem Statement**
 
-[Screenshot (417)](https://user-images.githubusercontent.com/72400473/127728054-9a6a0460-3d1d-4702-a336-5cf62423e931.png)
+
+![Screenshot (417)](https://user-images.githubusercontent.com/72400473/127728230-dbe1757b-74e8-4c29-bf62-631f1b659233.png)
+
 
 
 ![Screenshot (418)](https://user-images.githubusercontent.com/72400473/127728070-ccab6301-a7da-4ead-a21b-f74bc879d85c.png)
