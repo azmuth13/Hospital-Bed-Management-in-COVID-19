@@ -39,39 +39,39 @@ The user interface of our console application is menu driven.
 ![Screenshot (408)](https://user-images.githubusercontent.com/72400473/127728096-99ae8ba3-5147-4e4d-932f-842b1bc48ebb.png)
 
 
-1.  Manage Rooms
+1.  Manage Rooms: 
 In this application, the user can manage rooms by adding room and searching for rooms by using their room number. While adding a room, the user can feed the information about COVID-19, Type of room, Bed size, and Daily cost of that particular room. By using the search room feature the user can check the type of room, its daily cost, COVID status and its availability status. 
  
 
 ![Screenshot (409)](https://user-images.githubusercontent.com/72400473/127728099-4e74f17a-6cf9-4fe5-818b-0947090e6408.png)
 
-2. Check In Rooms
+2. Check In Rooms: 
 Here Patients can be checked in by the user by entering the room number and booking ID. After that other information like Name, Address, Phone-number, admit date etc. are fed.
 
 ![Screenshot (412)](https://user-images.githubusercontent.com/72400473/127728150-057704ff-4338-4301-8287-1f2189350767.png)
 
  
-3.  Show Available Rooms
+3.  Show Available Rooms: 
 This is one important feature of our project. Here with one click the user can find out the available rooms which can be assigned to new patients and the type and other details about the available room.
 
 
 ![Screenshot (419)](https://user-images.githubusercontent.com/72400473/127728187-bc16ac19-c1c9-46d0-b439-7dc96c566f13.png)
 
  
-4. Search Patients
+4. Search Patients: 
 With this feature user can search about all patients and get their details like room number and COVID status of that particular patient. 
 
 
  ![Screenshot (414)](https://user-images.githubusercontent.com/72400473/127728123-91e0fa5a-3d4f-445e-a63c-d87d640395fa.png)
  
-5. Check – Out room
+5. Check – Out room: 
 Here, the user can enter the room number and number of days spent in the room to calculate the total fee and also show the receipt of the cost.
  
  
  ![Screenshot (416)](https://user-images.githubusercontent.com/72400473/127728142-bd595c60-4df5-4325-a1ad-bebe0a798dca.png)
 
 
-6. Shows All Patient’s summary
+6. Shows All Patient’s summary: 
 With this feature one can see all the patients currently admitted in the hospital along with their room number, detail about their rooms and patient’s positive/negative status. 
  
 
