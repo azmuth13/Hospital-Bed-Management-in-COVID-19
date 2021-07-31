@@ -3,20 +3,21 @@
 OBJECT ORIENTED PROGRAMMING
 
 PROJECT REPORT
-TOPIC:  Hospital Room Management System in COVID-19 period
+TOPIC:  Hospital Room Management System in COVID-19 period!
+
+**Problem Statement**
+
+[Screenshot (417)](https://user-images.githubusercontent.com/72400473/127728054-9a6a0460-3d1d-4702-a336-5cf62423e931.png)
+
+
+![Screenshot (418)](https://user-images.githubusercontent.com/72400473/127728070-ccab6301-a7da-4ead-a21b-f74bc879d85c.png)
+
+
 
 Aim and objective of the project is to make a Hospital room management system dedicated to serve patients and hospital staff to maintain the record of patients and give them a nice and easy experience along with all the information related to the availability of rooms and beds.
 Significance and importance of this project
 
-To understand the importance of the scenario, let us first look at some news headlines. 
 
-
- 
- 
-
- 
-
- 
 We can easily infer from above screen shots that there is a lot of mismanagement happening in this COVID-19 period in hospitals and general healthcare sector.
 “Due to the coronavirus pandemic, patients suffering from critical diseases like cancer and those requiring surgeries are delaying hospital visits and thereby endangering their health and even risking their lives, according to some doctors.
 A number of medical practitioners said they have even lost patients who could have survived or their situation salvaged had they reported to hospitals in time “
@@ -33,28 +34,47 @@ We have made a console application in C++ language solely using idea of Object-O
 What does it do…
 Our console application allows us to operate in a hassle-free manner and the interface is self-explanatory. 
 The user interface of our console application is menu driven. 
+![Screenshot (408)](https://user-images.githubusercontent.com/72400473/127728096-99ae8ba3-5147-4e4d-932f-842b1bc48ebb.png)
+
+
 1.  Manage Rooms
 In this application, the user can manage rooms by adding room and searching for rooms by using their room number. While adding a room, the user can feed the information about COVID-19, Type of room, Bed size, and Daily cost of that particular room. By using the search room feature the user can check the type of room, its daily cost, COVID status and its availability status. 
  
 
+![Screenshot (409)](https://user-images.githubusercontent.com/72400473/127728099-4e74f17a-6cf9-4fe5-818b-0947090e6408.png)
+
 2. Check In Rooms
 Here Patients can be checked in by the user by entering the room number and booking ID. After that other information like Name, Address, Phone-number, admit date etc. are fed.
+
+![Screenshot (412)](https://user-images.githubusercontent.com/72400473/127728150-057704ff-4338-4301-8287-1f2189350767.png)
+
  
 3.  Show Available Rooms
 This is one important feature of our project. Here with one click the user can find out the available rooms which can be assigned to new patients and the type and other details about the available room.
+
+
+![Screenshot (419)](https://user-images.githubusercontent.com/72400473/127728187-bc16ac19-c1c9-46d0-b439-7dc96c566f13.png)
+
  
 4. Search Patients
 With this feature user can search about all patients and get their details like room number and COVID status of that particular patient. 
+
+
+ ![Screenshot (414)](https://user-images.githubusercontent.com/72400473/127728123-91e0fa5a-3d4f-445e-a63c-d87d640395fa.png)
  
 5. Check – Out room
 Here, the user can enter the room number and number of days spent in the room to calculate the total fee and also show the receipt of the cost.
  
+ 
+ ![Screenshot (416)](https://user-images.githubusercontent.com/72400473/127728142-bd595c60-4df5-4325-a1ad-bebe0a798dca.png)
+
 
 6. Shows All Patient’s summary
 With this feature one can see all the patients currently admitted in the hospital along with their room number, detail about their rooms and patient’s positive/negative status. 
  
 
 
+![Screenshot (415)](https://user-images.githubusercontent.com/72400473/127728146-a3a724a2-a563-4f1c-9b79-349e69cd987b.png)
 
 
  
