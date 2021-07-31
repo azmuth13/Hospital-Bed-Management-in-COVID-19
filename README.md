@@ -80,8 +80,8 @@ With this feature one can see all the patients currently admitted in the hospita
 
 
  
- 
-How does our application solves the problem
+**How does this application solves the problem**
+
 Using this application, the user can easily allocate the hospital rooms to the incoming patients while at the same time segregating the patients on the basis of their COVID status. It also helps to identify the rooms unoccupied and the ones occupied by patients (and what type of patients).
 Further it allows the user to calculate the cost of the patient’s stay depending upon the number of days spent in recovery period in the hospital and the over-night charges of the room. 
 
@@ -90,12 +90,16 @@ Further it allows the user to calculate the cost of the patient’s stay dependi
 
   
  
-Conclusion 
+**Conclusion**:
+
 The project started with an aim to help people with better management of patients in hospitals especially during the COVID-19 period. This console based application allows the user to allocate rooms to patients incoming to the hospital and also modifies the availability of rooms at the same time. Patient’s details can be checked with just 2 clicks and also rooms can be de-allocated and bill can be generated easily. Our project is written in C++ language with Object-Oriented programming paradigm. Various concepts of OOPs like Inheritance, Objects and array of Objects etc are used to reach the completion of this project.
 This report has discussed the development of a Hospital management and display system. The objectives of this application were to provide to provide a management system that eases the allocation and de-allocation of rooms and beds to patients admitted to hospital and also keeps a check on the types of patients and gives a real time details about the availability of rooms currently available in the hospital and thus eases the work of user to keep a track on available rooms which is crucial in real world scenario.
  
-References
+**References**:
+
 Book - Object Oriented Programming by E. Balagurusamy
+
 www.geeksforgeeks.com
+
 www.tutorialspoint.com
 
